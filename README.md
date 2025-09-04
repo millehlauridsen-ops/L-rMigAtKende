@@ -1,2 +1,7 @@
-# L-rMigAtKende
-En hjemmeside med info og billeder af mig
+# MDU-E25D
+
+## Programmeringsundervisning
+
+Her kan du finde min boilerplate og eksempler på kode fra programmeringstimerene.
+
+/ petj
